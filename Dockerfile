@@ -1,4 +1,4 @@
-FROM java:8-jre-alpine
+FROM openjdk:8-jre-alpine
 MAINTAINER Patricio A. Pérez Valverde <pperez@boaboa.org>
 
 ENV WIREMOCK_VERSION 2.1.9
